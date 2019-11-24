@@ -1,5 +1,5 @@
-# Blog Post
-## My first Blog Post
-* Post1
-* Post2
-* Post3
+#Title
+Git Tutorial with Professor H.Kang
+
+#Abstract
+Students will upload their own project through git extention.
